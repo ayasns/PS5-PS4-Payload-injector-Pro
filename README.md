@@ -16,12 +16,12 @@ Funciona en cualquier consolas **PlayStation 4/5** con Jailbreak.
 
 ### 📦 Payloads añadidos
 
-FTP Server v0.14.3 (PS4/PS5)
-webserv v0.28.3 (PS5)
-etaHEN v2.4b (PS5)
-etaHEN v2.5b (PS5)
-PS5Debug v1.0b5 (PS5)
-airpsx v0.19 (PS5)
+- FTP Server v0.14.3 (PS4/PS5)
+- webserv v0.28.3 (PS5)
+- etaHEN v2.4b (PS5)
+- etaHEN v2.5b (PS5)
+- PS5Debug v1.0b5 (PS5)
+- airpsx v0.19 (PS5)
 
 
 
