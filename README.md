@@ -16,9 +16,9 @@ Funciona en cualquier consolas **PlayStation 4/5** con Jailbreak.
 
 ### 📦 Payloads añadidos
 
-- FTP Server v0.14.3 (PS4/PS5) [acceso a los archivos de la consola vía red]
+- FTP Server v0.16 (PS4/PS5) [acceso a los archivos de la consola vía red]
 - webserv v0.28.3 (PS5) [servidor web]
-- FTP (nuevo) Server Drakmor (PS5) [acceso a la consola por red]
+- FTP (nuevo) Server Drakmor (PS5/PS4) [acceso a la consola por red]
 - etaHEN v2.4b (PS5) [AIO homebrew enabler con cheats y ajustes]
 - etaHEN v2.5b (PS5) [Versión más reciente de AIO homebrew enabler con cheats y ajustes]
 - notify (PS5) [(Opcional) para ver las notificaciones de ShadowMount]
